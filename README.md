@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Elkellyton Belarmino
 
-- 🔭 Trabalho com front-end e back-end (PHP,Javascript, CSS, HTML, PostgreSQL)
+- 🔭 Trabalho com front-end e back-end (PHP, Javascript, CSS, HTML, PostgreSQL)
 - 🌱 Se Formando em Análise e Desenvolviemnto de Sistemas na Faculdade Estácio
-- 🌱 Atualmente estudo para adquirir mais conhecimentos na https://www.alura.com.br/ 
-- 👯 Contate-me no email: elkellyton@hotmail.com.br
+- 🌱 Atualmente estudo por fora para adquirir novos conhecimentos na https://www.alura.com.br/ 
+- 👯 Contate-me no email: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
 
 ---
 
