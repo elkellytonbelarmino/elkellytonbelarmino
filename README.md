@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Oque eu faço na empresa atualmente?
+- 🔭 Oque eu faço no cargo atual?
 
 - Atuo de forma proativa na redução de bugs do time;
 - Presto Suporte à Sistemas para Órgãos Públicos;
