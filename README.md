@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elkellyton Belarmino 👋
 
 
-- 🔭 Atualmente trabalho como Suporte junior Nível 3 e estudo nas horas vagas Trabalhos com back-end e front-end (PHP,Javascript, CSS, HTML, PostgreSQL),
+- 🔭 Atualmente trabalho como Suporte junior Nível 3 e nas horas vagas estudo manipulando Trabalhos com back-end e front-end (PHP,Javascript, CSS, HTML, PostgreSQL),
 - 🌱 Estudando PHP para apronfundar os conheciemntos para back-end,
 - 👯 Contate no e-mail: elkellyton@hotmail.com.br
 
