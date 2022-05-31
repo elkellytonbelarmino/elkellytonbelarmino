@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Elkellyton Belarmino
 
 - 🔭 Trabalho com front-end e back-end (PHP, Javascript, CSS, HTML, PostgreSQL)
-- 🌱 Se Formando em Análise e Desenvolvimento de Sistemas na Faculdade Estácio
+- 🌱 Ultimo Periódo (Conclusão em junho 2022) em Análise e Desenvolvimento de Sistemas na Faculdade Estácio
 - 🌱 Atualmente estudo por fora para adquirir novos conhecimentos na https://www.alura.com.br/ 
 - 👯 Contate-me no email: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
 
