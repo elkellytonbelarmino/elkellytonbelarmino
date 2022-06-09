@@ -1,23 +1,23 @@
-### Olá! Eu sou o Elkellyton Belarmino
+### Hello! I am Elkellyton Belarmino
 
-- 🔭 Elaboro projetos com front-end e back-end no curso da alura e estou adquirindo mais conhecimento em: (PHP, Symfony, Javascript, Bootstrap, CSS, HTML, PostgreSQL)
-- 🌱 Ultimo Periódo (Conclusão em junho 2022) em Análise e Desenvolvimento de Sistemas na Faculdade Estácio
-- 🌱 Atualmente estudo por fora para adquirir novos conhecimentos na https://www.alura.com.br/ e almejo uma oportunidade no time de desenvolvimento
-- 👯 Contate-me no email: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
+- 🔭 I develop projects with front-end and back-end in the course of alura and I am acquiring more knowledge in: (PHP, Symfony, Javascript, Bootstrap, CSS, HTML, PostgreSQL)
+- 🌱 Last Period (Completion in June 2022) in Systems Analysis and Development at Faculdade Estácio
+- 🌱 I am currently studying abroad to acquire new knowledge at https://www.alura.com.br/ and I look forward to an opportunity in the development team
+- 👯 Contact me by email: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
 
 ---
 
-- 🔭 Oque eu faço no cargo atual?
+- 🔭 What do I do in my current position?
 
-- Atuo de forma proativa na redução de bugs do time;
-- Presto Suporte à Sistemas para Órgãos Públicos;
-- Faço a Manipulação de Banco de Dados -- SQL (Postgresql / Dbeaver)
-- Faço a Manipulação de XML e HTML;
-- Presto Suporte à integração de SIstemas;
-- Faço Testes Funcionais e detecção de Bugs;
-- Faço o Report de Bugs com Mantis BugTracker;
-- Faço o Acompanhamento de logs;
-- Identifico problemas recorrentes, resolvendo-os na raiz Abrindo ( Caso, Causa e Histórico ).
+- I work proactively in reducing team bugs;
+- Providing System Support for Public Organs;
+- Do Database Manipulation -- SQL (Postgresql / Dbeaver)
+- I handle XML and HTML;
+- I support the integration of SIsystems;
+- I do Functional Tests and Bug Detection;
+- I do the Bug Report with Mantis BugTracker;
+- I do the monitoring of logs;
+- Identify recurring problems, solving them in the Abrindo root (Case, Cause and History).
 
 <div align="center">
   <a href="https://github.com/elkellytonbelarmino">
