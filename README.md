@@ -1,8 +1,6 @@
 ### Hello! I am Elkellyton Belarmino
 
-- 🔭 I develop projects with front-end and back-end in the course of alura and I am acquiring more knowledge in: (PHP, Symfony, Javascript, Bootstrap, CSS, HTML, PostgreSQL)
-- 🌱 Bachelor Degree (Completion in June 2022) in Systems Analysis and Development at Faculdade Estácio
-- 🌱 I am currently studying abroad to acquire new knowledge at https://www.alura.com.br/ and I look forward to an opportunity in the development team
+- 🔭 I develop projects Java, future senior developer
 - 👯 Contact me by email: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
 
 ---
