@@ -11,7 +11,7 @@
 - Fornecimento de Sistema de Suporte para Órgãos Públicos;
 - Manipulação de banco de dados -- SQL (Postgresql/Dbeaver)
 - Manejo XML e HTML;
-- Apoio a integração de SIsystems;
+- Apoio a integração de Sistemas;
 - Realizo Testes Funcionais e Detecção de Bugs;
 - Faço o Bug Report com o Mantis BugTracker;
 - Faço o monitoramento dos logs;
