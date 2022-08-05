@@ -23,6 +23,7 @@
 
   <img align="center" alt="React" height="30" width="40" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4">
   <img align="center" alt="React" height="30" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png">
+  <img align="center" alt="React" height="30" width="40" src="https://miro.medium.com/max/700/1*9A0lTCXhJma8-gSISbzKrA.png">
   <img align="center" alt="React" height="30" width="40" src="https://avatars.githubusercontent.com/u/143937?s=200&v=4">
   <img align="center" alt="React" height="30" width="40" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
