@@ -1,7 +1,7 @@
 ### Olá! Eu sou Elkellyton Belarmino
 
-- 🔭 Desenvolvo projetos Java, futuro desenvolvedor sênior
-- 👯 Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br / elkellyton@voxtec.com.br
+- 🔭 Desenvolvo projetos, futuro desenvolvedor sênior
+- 👯 Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br
 
 ---
 
