@@ -1,6 +1,6 @@
 ### Olá! Eu sou Elkellyton Belarmino
 
-- 🔭 Desenvolvo projetos, futuro desenvolvedor sênior
+- 🔭 Aqui demonstro alguns projetos pessoais,
 - 👯 Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br
 
 ---
