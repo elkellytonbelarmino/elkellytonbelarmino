@@ -1,6 +1,6 @@
 ### Olá! Eu sou Elkellyton Belarmino
 
-- 🔭 Aqui demonstro alguns projetos pessoais,
+- 🔭 Aqui demonstro alguns projetos de desenvolvimento de sites web pessoais,
 - 👯 Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br
 
 ---
