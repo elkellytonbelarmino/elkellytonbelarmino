@@ -1,7 +1,7 @@
 ### Olá! Eu sou Elkellyton Belarmino
 
 - 🔭 Aqui demonstro alguns projetos de desenvolvimento front end,
-- 👯 Gostou e deseja me contratar? Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br ou [linkedin](https://www.linkedin.com/in/elkellyton-belarmino/)
+- 👯 Gostou e deseja me contratar? Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br
 
 ---
 
