@@ -1,10 +1,10 @@
-### Oii, sou o Elkellyton Belarmino wave
+### Oii, sou o Elkellyton Belarmino :wave:
 
 - 🔭 Estou estudado para trabalhar com Front-end
 - ![1f331](https://user-images.githubusercontent.com/81722875/203449274-f9f24419-c1d6-485c-a033-edf014e3b1cf.png)Atualmente estou praticando HTML, CSS e JavaScript
--  Meu email para contato é elkellyton@hotmail.com.br
+-  :mailbox: Meu email para contato é elkellyton@hotmail.com.br
 -  Pronome:Ele/dele
-
+  
 
 <div align="center">
   <a href="https://github.com/elkellytonbelarmino">
