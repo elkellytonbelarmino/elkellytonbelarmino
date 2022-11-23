@@ -1,4 +1,4 @@
-### Oii, sou o Elkellyton Belarmino :wave:
+### Olá! Eu sou o Elkellyton Belarmino :wave:
 
 - 🔭 Hoje trabalho como Analista de sistemas jr3
 - :seedling: Estou estudado para trabalhar com Front-end, Atualmente estou praticando HTML, CSS e JavaScript
