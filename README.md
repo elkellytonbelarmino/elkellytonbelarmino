@@ -1,7 +1,7 @@
 ### Oii, sou o Elkellyton Belarmino wave
 
 - 🔭 Estou estudado para trabalhar com Front-end
-- seedling Atualmente estou praticando HTML, CSS e JavaScript
+- ![image](https://user-images.githubusercontent.com/81722875/203449145-31aa701a-5127-49f4-8bac-f543015c60c8.png) Atualmente estou praticando HTML, CSS e JavaScript
 mailbox Meu email para contato é elkellyton@hotmail.com.br
 smile Pronome:Ele/dele
 
