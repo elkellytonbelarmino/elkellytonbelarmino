@@ -23,8 +23,7 @@
   <img align="right" alt="Tom-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908875648729235459/948430978643296336/emote-enzo-link_avatar.png">
 </div>  
 
-  
-  ##
+##
   
 <div> 
   <a href="https://www.instagram.com/elkellyton/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
