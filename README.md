@@ -1,21 +1,10 @@
-### Olá! Eu sou Elkellyton Belarmino
+### Oii, sou o Elkellyton Belarmino wave
 
-- 🔭 Aqui demonstro alguns projetos de desenvolvimento front end,
-- 👯 Gostou e deseja me contratar? Entre em contato comigo pelo e-mail: elkellyton@hotmail.com.br ou link abaixo do linkedin.
+- 🔭 Estou estudado para trabalhar com Front-end
+- seedling Atualmente estou praticando HTML, CSS e JavaScript
+mailbox Meu email para contato é elkellyton@hotmail.com.br
+smile Pronome:Ele/dele
 
----
-
-- 🔭 O que faço no meu cargo atual?
-
-- Trabalho proativamente na redução de bugs da equipe;
-- Fornecimento de Sistema de Suporte para Órgãos Públicos;
-- Manipulação de banco de dados -- SQL (Postgresql/Dbeaver)
-- Manejo XML e HTML;
-- Apoio a integração de Sistemas;
-- Realizo Testes Funcionais e Detecção de Bugs;
-- Faço o Bug Report com o Mantis BugTracker;
-- Faço o monitoramento dos logs;
-- Identificar problemas recorrentes, resolvendo-os na raiz Abrindo (Caso, Causa e Histórico).
 
 <div align="center">
   <a href="https://github.com/elkellytonbelarmino">
