@@ -3,15 +3,13 @@
     <h1>Olá, meu nome é <a href="https://www.linkedin.com/in/elkellyton-belarmino/"><i>Elkellyton Belarmino! :wave:</i></a></h1>
 </div>
 
-<div align="center">
-    Atualmente, Trabalhando como analista de sistemas em equipe de sustentação, realizo triagem e aberturas de caso causa e caso histórico conforme erros no sistema, visando corrigi-los e também realizo testes funcionais, utilizando também banco de dados relacionais.
-    
-    Profissional dinâmico, dedicado, orientado ao resultado, com foco no trabalho colaborativo e 
+<div align="center">    
+    Sou um Profissional dinâmico, dedicado, orientado ao resultado, com foco no trabalho colaborativo e 
     com grande empenho em auxiliar às empresas as quais atuo, colocando em pratica os conhecimentos
     obtidos em minha graduação em Analise e Desenvolvimento de Sistemas (Formatura junho de 2022) e 
-    treinamentos realizados na plataforma de desenvolvedores Alura, Udemy e outros.
+    treinamentos realizados na plataforma de desenvolvedores Alura, Udemy, B7web e outros.
     
-    A minha graduação em Análise e Desenvolvimento de Sistemas tem o foco em preparar profissionais para criar, analisar,
+    A minha graduação em Análise e Desenvolvimento de Sistemas teve o foco em me preparar para criar, analisar,
     projetar e implementar sistemas computacionais de informação. É formatado com disciplinas para desenvolver
     raciocínio lógico, domínio de linguagens de programação e de metodologias de construção de projetos, entre outras.
 
