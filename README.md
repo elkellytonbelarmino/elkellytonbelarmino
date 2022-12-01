@@ -4,16 +4,8 @@
 </div>
 
 <div align="center">    
-    Sou um Profissional dinâmico, dedicado, orientado ao resultado, com foco no trabalho colaborativo e 
-    com grande empenho em auxiliar às empresas as quais atuo, colocando em pratica os conhecimentos
-    obtidos em minha graduação em Analise e Desenvolvimento de Sistemas (Formatura junho de 2022) e 
-    treinamentos realizados na plataforma de desenvolvedores Alura, Udemy, B7web e outros.
+     Sou um desenvolvedor apaixonado pelo que eu faço. Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou com projetos próprios de experiência e atuo tanto como analista de sistemas como no front-end.
     
-    A minha graduação em Análise e Desenvolvimento de Sistemas teve o foco em me preparar para criar, analisar,
-    projetar e implementar sistemas computacionais de informação. É formatado com disciplinas para desenvolver
-    raciocínio lógico, domínio de linguagens de programação e de metodologias de construção de projetos, entre outras.
-
-    E este é somente o começo de muitos aprendizados que ainda estão por vim!
 Baby steps, big dreams! - translating = javascript:alert("Pequenos passos, grandes sonhos!")
 </div>
   
