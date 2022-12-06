@@ -25,7 +25,5 @@ Baby steps, big dreams! - translating = javascript:alert("Pequenos passos, grand
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
      <img height="50" width+"50" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" />
 </div>
-  
-  
-![Snake animation](https://github.com/elkellytonbelarmino/elkellytonbelarmino/blob/output/github-contribution-grid-snake.svg)
+
   
