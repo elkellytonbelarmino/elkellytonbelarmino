@@ -23,7 +23,7 @@ Baby steps, big dreams! - translating = javascript:alert("Pequenos passos, grand
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img height="50" width+"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
-     <img height="50" width+"50" src="https://img2.gratispng.com/20180329/lue/kisspng-angularjs-typescript-node-js-javascript-letter-a-5abd8d10eef164.7123329715223718569787.jpg" />
+     <img height="50" width+"50" src="http://developerpitstop.com/wp-content/uploads/2021/07/React.png" />
 </div>
 
   
