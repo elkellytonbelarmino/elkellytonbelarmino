@@ -7,14 +7,7 @@
      Sou um desenvolvedor apaixonado pelo que eu faço. Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou com projetos próprios de experiência e atuo tanto como analista de sistemas como no front-end.
     
 Baby steps, big dreams! - translating = javascript:alert("Pequenos passos, grandes sonhos!")
-</div>
-  
-<div align="center">
-    <a href="https://github.com/elkellytonbelarmino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elkellytonbelarmino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkellytonbelarmino&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-  
+</div>  
   
 <div align="center" style="display: inline-block; margin-right: 3px">
     <br>
