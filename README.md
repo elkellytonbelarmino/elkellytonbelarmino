@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">    
-     Sou Formação em análise e desenvolvimento de sistemas pela faculdade Estácio de Sá na Paraíba, Sou um desenvolvedor jr apaixonado pelo que eu faço. Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou com projetos próprios de experiência.
+     Sou Formação em análise e desenvolvimento de sistemas pela faculdade Estácio de Sá na Paraíba, Sou um desenvolvedor apaixonado pelo que eu faço. Costumo dizer que “quem faz o que gosta vive de férias”. Por isso estou sempre querendo aprender algo novo que me ajude a ser um desenvolvedor cada vez melhor. Estou com projetos próprios de experiência.
     
 Baby steps, big dreams! - translating = javascript:alert("Pequenos passos, grandes sonhos!")
 </div>  
